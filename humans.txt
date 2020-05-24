@@ -1,4 +1,6 @@
-# humanstxt.org/
+Iam adding new text in this
+
+# humanstxt.org/ (Done)
 # The humans responsible & technology colophon
 
 # TEAM
