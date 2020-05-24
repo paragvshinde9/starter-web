@@ -3,7 +3,9 @@ Iam adding new text in this
 # humanstxt.org/ (Done)
 # The humans responsible & technology colophon
 Changed the status
-
+Parag Vijay Shinde
+paragvshinde9@gmail.com	
+Engineer
 # TEAM
 
     <name> -- <role> -- <twitter>
