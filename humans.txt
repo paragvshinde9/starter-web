@@ -1,12 +1,3 @@
-Added Line bye master
-
-
-
-
-I Am devops enginere
-I have added this to in Mater to rebase
-Iam adding new text in this
-Added some thing in Monday
 # humanstxt.org/ (Done)
 # The humans responsible & technology colophon
 Changed the status
