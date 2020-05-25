@@ -1,9 +1,3 @@
-
-
-
-
-I Am devops enginere
-I have added this to in Mater to rebase
 I have added this line in br1 branch to conflicts
 Iam adding new text in this
 Added some thing in Monday
