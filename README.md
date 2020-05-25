@@ -1,6 +1,6 @@
 I Have added new line
 New line added
-
+This is added for the rebase lecture
 # Starter Web Repo
 $This repository is for showing how Git and GitHub work
 This is added 2 line
