@@ -1,0 +1,2 @@
+This is MM File
+:wq
