@@ -1,10 +1,10 @@
-<<<<<<< HEAD
-=======
-I have added this line in br1 branch to conflicts
-Iam adding new text in this
-Added some thing in Monday
->>>>>>> br1
-# humanstxt.org/ (Done)
+Added this for git stash
+
+
+
+
+
+
 # The humans responsible & technology colophon
 Changed the status
 Parag Vijay Shinde
